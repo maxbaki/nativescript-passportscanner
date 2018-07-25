@@ -1,0 +1,36 @@
+{
+  "name": "nativescript-passportscanner",
+  "version": "1.0.0",
+  "description": "A passportscanner NativeScript module for Android and iOS",
+  "main": "passportscanner",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.1.0",
+      "android": "1.1.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxbaki/nativescript-passportscanner.git"
+  },
+  "keywords": [
+    "NativeScript"
+  ],
+  "author": "Massimiliano Baki <massimiliano.baki@gmail.com>",
+   "contributors": [
+    {
+      "name": "Massimiliano Baki",
+      "email": "massimiliano.baki@gmail.com",
+      "url": "https://github.com/maxxi3"
+    }    
+   ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/maxbaki/nativescript-passportscanner/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/maxbaki/nativescript-passportscanner/issues"
+  },
+  "homepage": "https://github.com/maxbaki/nativescript-passportscanner"
+}
